@@ -217,3 +217,8 @@ __marimo__/
 
 # Cache
 **/data_cache/
+
+# Local output
+reports/
+.DS_Store
+CLAUDE.md

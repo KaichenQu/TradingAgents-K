@@ -99,6 +99,20 @@ MODEL_OPTIONS: ProviderModeOptions = {
             ("Custom model ID", "custom"),
         ],
     },
+    "xinghu": {
+        "quick": [
+            ("Claude Sonnet 4.6 - Best speed and intelligence balance", "claude-sonnet-4-6"),
+            ("GPT-4o", "gpt-4o"),
+            ("GPT-4o Mini", "gpt-4o-mini"),
+            ("Custom model ID", "custom"),
+        ],
+        "deep": [
+            ("Claude Sonnet 4.6 - Best speed and intelligence balance", "claude-sonnet-4-6"),
+            ("GPT-4o", "gpt-4o"),
+            ("Claude 3.5 Sonnet", "claude-3-5-sonnet-20241022"),
+            ("Custom model ID", "custom"),
+        ],
+    },
     # OpenRouter: fetched dynamically. Azure: any deployed model name.
     "ollama": {
         "quick": [
