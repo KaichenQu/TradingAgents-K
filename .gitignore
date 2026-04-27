@@ -222,3 +222,7 @@ __marimo__/
 reports/
 .DS_Store
 CLAUDE.md
+
+# Web frontend build
+web/frontend/node_modules/
+web/frontend/dist/
